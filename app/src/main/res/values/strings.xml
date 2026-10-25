@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Made in Heaven Clock</string>
+
+    <string name="title">MADE IN HEAVEN</string>
+    <string name="title_katakana">メイド・イン・ヘブン</string>
+
+    <string name="action_accelerate">ACCELERATE TIME</string>
+    <string name="action_reset">RESET UNIVERSE</string>
+    <string name="action_resetting">UNIVERSE RESETTING…</string>
+
+    <string name="sfx_on">🔊 SFX ON</string>
+    <string name="sfx_off">🔇 SFX OFF</string>
+
+    <string name="stage_normal">TIME FLOWS NORMALLY</string>
+    <string name="stage_accelerating">TIME ACCELERATING</string>
+    <string name="stage_beyond">BEYOND PERCEPTION</string>
+    <string name="stage_catching_up">THE UNIVERSE CAN\'T KEEP UP</string>
+    <string name="stage_heaven">MADE IN HEAVEN!</string>
+    <string name="stage_reset">THE UNIVERSE RESETS</string>
+
+    <string name="time_skipped">Time skipped %1$s</string>
+</resources>
